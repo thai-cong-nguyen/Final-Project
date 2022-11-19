@@ -1,0 +1,37 @@
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\4NH HAO Coffee Shop.exe.config
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\4NH HAO Coffee Shop.exe
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\4NH HAO Coffee Shop.pdb
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\App.g.cs
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop_MarkupCompile.cache
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop_MarkupCompile.lref
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop.g.resources
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\_4NH_HAO_Coffee_Shop.Properties.Resources.resources
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop.csproj.GenerateResource.cache
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop.exe
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop.pdb
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\ProductManagementScreen_Item.g.cs
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\ProductManagementScreen_Item.baml
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MaterialDesignColors.dll
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MaterialDesignColors.pdb
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\4NH HAO Coffee Shop.csproj.CopyComplete
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\ControlzEx.dll
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MahApps.Metro.dll
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MaterialDesignThemes.MahApps.dll
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\ControlzEx.pdb
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\ControlzEx.xml
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MahApps.Metro.pdb
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MahApps.Metro.xml
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\MaterialDesignThemes.MahApps.pdb
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\WorkSpace\C#\4NH HAO Coffee Shop\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\App.baml
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\ProductManagementScreen_Unit.g.cs
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\ProductManagementScreen_Catelogry.g.cs
+D:\WorkSpace\C#\4NH HAO Coffee Shop\obj\Debug\ProductManagementScreen_Promo.g.cs
